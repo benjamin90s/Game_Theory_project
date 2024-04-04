@@ -2,7 +2,7 @@
 PCA as NASH equilibrium
 
 In this project, we have implemented the algorithm described in the research paper "EIGENGAME: PCA AS A NASH EQUILIBRIUM
-". The steps and results of the code are summarized below:
+" on a smaller dataset. The steps and results of the code are summarized below:
 
 Steps:
 
