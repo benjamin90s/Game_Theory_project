@@ -38,3 +38,5 @@ The data points do not exhibit distinct clustering, which suggests no clear sepa
 **Summary**:
 
 The code successfully demonstrates the implementation of PCA using the EigenGame method, validated against NumPy's PCA implementation. The results indicate that the EigenGame approach is accurate, with eigenvectors that align closely with those obtained from the traditional PCA. The dimensionality reduction is visualized through a scatter plot, showing how the data is represented in the space of the first two principal components. This serves as a useful tool for understanding and working with high-dimensional data in a more manageable form.
+
+<img width="715" alt="Screenshot 2024-04-04 at 11 04 55 PM" src="https://github.com/benjamin90s/Game_Theory_project/assets/101950357/748c50a3-e249-490b-996c-51a1df5d30bf">
