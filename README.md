@@ -25,6 +25,9 @@ The eigenvalues obtained from the EigenGame method are printed and compared with
 
 The dot products between the corresponding eigenvectors from the EigenGame method and the NumPy PCA are calculated to assess their alignment. The dot products are close to 1, indicating a high degree of alignment.
 
+
+<img width="715" alt="Screenshot 2024-04-04 at 11 04 55 PM" src="https://github.com/benjamin90s/Game_Theory_project/assets/101950357/748c50a3-e249-490b-996c-51a1df5d30bf">
+
 3)**Dimensionality Reduction and Visualization**:
 
 The image data is projected onto the two principal components, effectively reducing its dimensionality.
@@ -35,10 +38,9 @@ A scatter plot of the first two principal components is then generated, allowing
 The scatter plot shows the data points distributed primarily along the first principal component, with the second principal component capturing a smaller but still significant variation.
 The data points do not exhibit distinct clustering, which suggests no clear separable classes in the image data or a continuous variation.
 
+![GT_pca](https://github.com/benjamin90s/Game_Theory_project/assets/101950357/f58a9fe3-0449-46bd-a132-a2c96cb594e8)
+
 **Summary**:
 
 The code successfully demonstrates the implementation of PCA using the EigenGame method, validated against NumPy's PCA implementation. The results indicate that the EigenGame approach is accurate, with eigenvectors that align closely with those obtained from the traditional PCA. The dimensionality reduction is visualized through a scatter plot, showing how the data is represented in the space of the first two principal components. This serves as a useful tool for understanding and working with high-dimensional data in a more manageable form.
 
-<img width="715" alt="Screenshot 2024-04-04 at 11 04 55 PM" src="https://github.com/benjamin90s/Game_Theory_project/assets/101950357/748c50a3-e249-490b-996c-51a1df5d30bf">
-
-![GT_pca](https://github.com/benjamin90s/Game_Theory_project/assets/101950357/f58a9fe3-0449-46bd-a132-a2c96cb594e8)
